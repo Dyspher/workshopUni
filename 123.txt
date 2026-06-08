@@ -1,0 +1,2 @@
+Hier sind die ersten 3 natürlichen Zahlen ohne 0:
+123
